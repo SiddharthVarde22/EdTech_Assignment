@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8275dc4c937361742842e3a72302b2c1, type: 3}
+  m_Name: Bear Data SO
+  m_EditorClassIdentifier: 
+  m_name: Bear
+  m_animalTypes: 868
+  m_description: "Bears are carnivoran mammals of the family Ursidae. They are classified
+    as caniforms or doglike carnivorans. Although only eight species of bears are
+    extant, they are widespread, appearing in a wide variety of habitats throughout
+    the Northern Hemisphere and partially in the Southern Hemisphere.\r"
+  m_sprite: {fileID: 21300000, guid: 4a709e68f4ee9354c899fbe57aecf680, type: 3}

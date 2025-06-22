@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8275dc4c937361742842e3a72302b2c1, type: 3}
+  m_Name: Grasshopper Data SO
+  m_EditorClassIdentifier: 
+  m_name: Grasshopper
+  m_animalTypes: 310
+  m_description: "Grasshoppers are insects belonging to suborder Caelifera within
+    order Orthoptera. They are herbivorous insects that can jump long distances.\r"
+  m_sprite: {fileID: 21300000, guid: e64f51e781c701646b9c5ce00828a0fb, type: 3}
